@@ -9,4 +9,4 @@ I think I should choose github
 modify in dev branch
 
 
-> [main page](mianPage.md)
+> [main page](mainPage.md)
